@@ -22,7 +22,7 @@ This project analyzes electricity consumption data to identify usage patterns, t
 
 Electricity-consumption-analysis
 ├── Dataset/
-│   └── Electricity Dataset.xlsx.csv
+│   └── Electricity dataset.xlsx.csv
 ├── Notebook/
 │   └── app.py                  
 ├── Report/
@@ -34,7 +34,7 @@ Electricity-consumption-analysis
 │   ├── Dashboard 4.png
 │   └── Data collection and extraction.png
 ├── Tableau/
-│   └── electricity-dashboard.twbx
+│   └── Electricity-dashboard.twbx
 └── README.md
 
 ## Data Processing Steps
