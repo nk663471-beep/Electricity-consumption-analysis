@@ -20,6 +20,23 @@ This project analyzes electricity consumption data to identify usage patterns, t
 
 ## Project Structure
 
+Electricity-consumption-analysis
+├── Dataset/
+│   └── Electricity Dataset.xlsx.csv
+├── Notebook/
+│   └── app.py                  
+├── Report/
+│   └── Documentation.pdf
+├── Screenshots/
+│   ├── Dashboard 1.png
+│   ├── Dashboard 2.png
+│   ├── Dashboard 3.png
+│   ├── Dashboard 4.png
+│   └── Data collection and extraction.png
+├── Tableau/
+│   └── electricity-dashboard.twbx
+└── README.md
+
 ## Data Processing Steps
 
 1. Data collection from database
@@ -29,7 +46,7 @@ This project analyzes electricity consumption data to identify usage patterns, t
 5. Create charts and dashboards
 6. Generate insights from visualizations
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 * Electricity consumption trend analysis
 * Monthly usage comparison
@@ -57,18 +74,13 @@ https://drive.google.com/file/d/1fZuuA19zERKZNF57YKLDMckTeMAcjjum/view?usp=shari
 
 ## Authors
 
-Neha Kumari
-B.Tech CSE-Data Science
-
-Aishvarya Sahu
-B.Tech Computer Science
-
-Ravi Ahirwar
-B.Tech Computer Science
+* **Neha Kumari** - B.Tech CSE-Data Science
+* **Aishvarya Sahu** - B.Tech Computer Science
+* **Ravi Ahirwar** - B.Tech Computer Science
 
 ## Future Improvements
 
-* Add real-time electricity data
-* Connect Tableau directly with MySQL database
-* Improve dashboard interactivity
+- [ ] Add real-time electricity data
+- [ ] Connect Tableau directly with MySQL database
+- [ ] Improve dashboard interactivity
 
